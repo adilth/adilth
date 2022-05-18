@@ -1,8 +1,8 @@
-## Hi I'm adil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Adil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Adil Tahiri a Software Engineer as Full Stack Web Developer based in marrakech morocco . I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB, and React. i aspire to help create a new web application and project and bring it to life and demonstrate my commitment to development
+I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer based in Marrakech morocco. I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB, and React. I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to developing
 
-[my website](https://adilth.netlify.app/) for more information!
+[My website](https://adilth.netlify.app/) for more information!
 
 <br />
 
@@ -20,14 +20,16 @@ I'm Adil Tahiri a Software Engineer as Full Stack Web Developer based in marrake
 [<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=for-the-badge&labelColor=black&logo=html5"/>](#)
 [<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=264de4&style=for-the-badge&labelColor=black&logo=css3"/>](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=for-the-badge&style=for-the-badge&labelColor=black&logo=mongodb"/>](#)
-[ <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=F1502F&style=for-the-badge&labelColor=black&logo=git"/>](#)
+[ <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=F1502F&style=for-the-badge&labelColor=black&logo=git"/>](#)<a href="Downloads\Documents\Adil-tahiri-CV_Software_Engineer (2).docx.pdf" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=for-the-badge&logo=react&logo-color=white"/>
+</a>
 
 <br />
 <br />
 
 #### Bizness
 
-- :paperclip: none now
+- :paperclip: <a href="Downloads\Documents\Adil-tahiri-CV_Software_Engineer (2).docx.pdf" target="_blank"><span> My resume </span></a>
 - :email: rajaadil19952012@gmail.com
 
 <h1 align="center">Projects</h1>
