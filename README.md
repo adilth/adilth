@@ -1,14 +1,24 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=450&lines=Creating+responsive+websites;Developing+a+great+idea;Coding+and+learning+daily!" alt="Typing SVG" /></a>
+
+</div>
+
+<!-- Social Badge Section -->
+
 ## Hi I'm Adil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer based in Marrakech morocco. I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB, and React. I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to developing
+- I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer
+- based in Marrakech morocco.
+- I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB,Jest, and React.
+- I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to developing
+- you can see more info here [My website](https://adilth.netlify.app/)
+- Reach me out! rajaadil19952012@gmail.com
+  <br />
 
-[My website](https://adilth.netlify.app/) for more information!
+### Connect
 
-<br />
-
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@adilth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Faadilth)](https://twitter.com/aadilth) [![Linkedin Badge](https://img.shields.io/static/v1?label=|&message=adil-tahiri&color=cdf998&style=plastic&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/adil-tahiri-4681711a3/) [![Mail Badge](https://img.shields.io/badge/-adiltahiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rajaadil19952012@gmail.com) [![Mail Badge](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white)](https://adilth.netlify.app/)
+[![Twitter Badge](https://img.shields.io/badge/-@adilth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Faadilth)](https://twitter.com/aadilth) [![Linkedin Badge](https://img.shields.io/static/v1?label=|&message=adil-tahiri&color=0072b1&labelColor=0072b1&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/adil-tahiri-4681711a3/) [![Mail Badge](https://img.shields.io/badge/-adiltahiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rajaadil19952012@gmail.com) [![Mail Badge](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&logo=react&logo-color=white)](https://adilth.netlify.app/)
+[![wellfound. Badge](https://img.shields.io/static/v1?label=|&message=AngelList&labelColor=fff&color=fff&logo=AngelList&logoColor=black)](https://angel.co/profile/edit/overview)
+[![Resume. Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb)](https://adilth.netlify.app/img/Adil-tahiri-CV_Software_EngineerWithoutIMG.pdf)
 
 <!-- TODO: Add last video link -->
 
@@ -155,7 +165,7 @@ I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer based in Marra
 <!-- ![adilth's github stats](https://github-readme-stats.vercel.app/api?username=adilth&count_private=true&theme=tokyonight&hide=contribs,prs) -->
  <p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adilth&count_private=true&theme=tokyonight&hide=contribs,prs" />
+<img src="https://github-readme-stats.vercel.app/api?username=adilth&count_private=true&theme=tokyonight&hide=contribs,prs&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilth&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=100&layout=compact&hide_border=true&custom_title=GitHub%20Breakdown" alt="Top language used in my public repos" />
 <!-- <img src="https://metrics.lecoq.io/adilth?template=classic&repositories.forks=true&isocalendar=1&gists=1&lines=1&achievements=1&activity=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York" /> -->
