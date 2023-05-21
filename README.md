@@ -35,8 +35,114 @@ I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer based in Marra
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
-will add in future
-
+<div align="center">
+<table>
+ <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+      <br />
+      <a href="https://adilth.netlify.app/" target="_blank">
+        <img src="img/portfolio.png" alt="my personal portfolio" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/adilth/portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://adilth.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML and CSS</strong> My personal website! Created with a simple stack for optimum performance. Here you can learn more about me, view some of my projects, and reach me through a contact form.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Special tour</h3>
+      <br />
+      <a href="https://specailtour.netlify.app/" target="_blank">
+        <img src="img/project2.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/adilth/finess" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://specailtour.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, GitHub, HTML, CSS, Bootstrap, jquery,  SVG</strong> - Special tour is a website that shows you the meaning of adventure and explores the word and
+                        gives you some excitement to go see it by yourself
+      </p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">pocket Process</h3>
+      <br />
+      <a href="https://rascaltwo.github.io//" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/adilth/" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://rascaltwo.github.io//" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>NodeJs, ExpressJs, Chart.js, Ejs, JavaScript, HTML, CSS, and JSON</strong> - It's a website that target people that want to know where there money go and how much
+                        is spend in this week , month or year and give a comparison in different dates with a chart
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Amina salon</h3>
+      <br />
+      <a href="https://amina-salon.netlify.app/" target="_blank">
+        <img src="img/project1.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/adilth/salon" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://amina-salon.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>Javascript, JavaScript, HTML, CSS, JSON, and NPM</strong> - This website build to make anyone can reach and contact the owner and reserve without going to a
+                        salon shop and you can check the price and type of style you want
+      </p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">SamiFood Rest&Delivery</h3>
+      <br />
+      <a href="https://samiFood.cyclic.app/" target="_blank">
+        <img src="img/project3.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/adilth/SamiFoodDelivery" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://samiFood.cyclic.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>Javascript, React, HTML, CSS, JSON, FireBase,and NPM</strong> -It's is a small restaurant and food Delivery the that you can order food from home and even reserve a table if you want
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 <details>
 <summary>
   More stuff about me
@@ -44,14 +150,15 @@ will add in future
 
 <br >
 
-#### Coding Stats
-
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
-// in future
-
 <!-- ![adilth's github stats](https://github-readme-stats.vercel.app/api?username=adilth&count_private=true&theme=tokyonight&hide=contribs,prs) -->
+ <p align="left">
 
+<img src="https://github-readme-stats.vercel.app/api?username=adilth&count_private=true&theme=tokyonight&hide=contribs,prs" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilth&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=100&layout=compact&hide_border=true&custom_title=GitHub%20Breakdown" alt="Top language used in my public repos" />
+<!-- <img src="https://metrics.lecoq.io/adilth?template=classic&repositories.forks=true&isocalendar=1&gists=1&lines=1&achievements=1&activity=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York" /> -->
+
+ </p>
 </details>
