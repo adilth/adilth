@@ -10,8 +10,8 @@
 - based in Marrakech morocco.
 - I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB,Jest, and React.
 - I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to developing
-- you can see more info here [My website](https://adilth.netlify.app/)
-- Reach me out! rajaadil19952012@gmail.com
+- you can see more info here #️⃣ [My website](https://adilth.netlify.app/)
+- Reach me out! :email: rajaadil19952012@gmail.com
   <br />
 
 ### Connect
