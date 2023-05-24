@@ -87,15 +87,15 @@
     <td width="50%" valign="top">
       <h3 align="center">pocket Process</h3>
       <br />
-      <a href="https://rascaltwo.github.io//" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+      <a href="" target="_blank">
+        <video src="" />
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/adilth/" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://rascaltwo.github.io//" target="_blank">
+        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
