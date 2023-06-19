@@ -9,7 +9,7 @@
 - I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer
 - based in Marrakech morocco.
 - I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB, Jest, and React.
-- I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to developing
+- I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to development.
 - you can see more info here [My website](https://adilth.netlify.app/)
 - Reach out! rajaadil19952012@gmail.com
   <br />
@@ -36,11 +36,6 @@
 
 <br />
 <br />
-
-#### Bizness
-
-- :paperclip: <a href="Downloads\Documents\Adil-tahiri-CV_Software_Engineer (2).docx.pdf" target="_blank"><span> My resume </span></a>
-- :email: rajaadil19952012@gmail.com
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
