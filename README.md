@@ -8,16 +8,16 @@
 
 - I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer
 - based in Marrakech morocco.
-- I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB,Jest, and React.
+- I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB, Jest, and React.
 - I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to developing
 - you can see more info here [My website](https://adilth.netlify.app/)
-- Reach me out! rajaadil19952012@gmail.com
+- Reach out! rajaadil19952012@gmail.com
   <br />
 
 ### Connect
 
 [![Twitter Badge](https://img.shields.io/badge/-@adilth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Faadilth)](https://twitter.com/aadilth) [![Linkedin Badge](https://img.shields.io/static/v1?label=|&message=adil-tahiri&color=0072b1&labelColor=0072b1&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/adil-tahiri-4681711a3/) [![Mail Badge](https://img.shields.io/badge/-adiltahiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rajaadil19952012@gmail.com) [![Mail Badge](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&logo=react&logo-color=white)](https://adilth.netlify.app/)
-[![wellfound. Badge](https://img.shields.io/static/v1?label=|&message=AngelList&labelColor=fff&color=fff&logo=AngelList&logoColor=black)](https://angel.co/profile/edit/overview)
+[![well found. Badge](https://img.shields.io/static/v1?label=|&message=AngelList&labelColor=fff&color=fff&logo=AngelList&logoColor=black)](https://angel.co/profile/edit/overview)
 [![Resume. Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb)](https://adilth.netlify.app/img/Adil-tahiri-CV_Software_EngineerWithoutIMG.pdf)
 
 <!-- TODO: Add last video link -->
@@ -92,21 +92,21 @@
     <td width="50%" valign="top">
       <h3 align="center">pocket Process</h3>
       <br />
-      <a href="https://rascaltwo.github.io//" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+      <a href="https://pocket-process.cyclic.app" target="_blank">
+        <img src="img/pocket-process-new-small.jpg">
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/adilth/" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://rascaltwo.github.io//" target="_blank">
+        <a href="https://pocket-process.cyclic.app" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>NodeJs, ExpressJs, Chart.js, Ejs, JavaScript, HTML, CSS, and JSON</strong> - It's a website that target people that want to know where there money go and how much
-                        is spend in this week , month or year and give a comparison in different dates with a chart
+        <strong>NodeJs, ExpressJs, Chart.js, Ejs, JavaScript, HTML, CSS, and JSON</strong> - It's a website that targets people that want to know where their money goes and how much
+                        is spent in this week, month or year and give a comparison in different dates with a chart
       </p>
     </td>
     <td width="50%" valign="top">
@@ -125,7 +125,7 @@
         </a>
       </p>
       <p>
-        <strong>Javascript, JavaScript, HTML, CSS, JSON, and NPM</strong> - This website build to make anyone can reach and contact the owner and reserve without going to a
+        <strong>Javascript, JavaScript, HTML, CSS, JSON, and NPM</strong> - This website was built to make anyone can reach and contact the owner and reserve without going to a
                         salon shop and you can check the price and type of style you want
       </p>
     </td>
@@ -147,7 +147,7 @@
         </a>
       </p>
       <p>
-        <strong>Javascript, React, HTML, CSS, JSON, FireBase,and NPM</strong> -It's is a small restaurant and food Delivery the that you can order food from home and even reserve a table if you want
+        <strong>Javascript, React, HTML, CSS, JSON, FireBase, and NPM</strong> -It's is a small restaurant and food Delivery that you can order food from home and even reserve a table if you want
       </p>
     </td>
   </tr>
