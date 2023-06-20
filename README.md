@@ -92,7 +92,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/adilth/" target="_blank">
+        <a href="https://github.com/adilth/pocket-process" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://pocket-process.cyclic.app" target="_blank">
