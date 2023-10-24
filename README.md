@@ -137,7 +137,7 @@
         <a href="https://github.com/adilth/SamiFoodDelivery" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://samiFood.cyclic.app/" target="_blank">
+        <a href="https://samifood.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
