@@ -7,8 +7,8 @@
 ## Hi I'm Adil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - I'm Adil Tahiri a Software Engineer as a Full Stack Web Developer
-- based in Marrakech morocco.
-- I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, MongoDB, Jest, and React.
+- based in CasaBalnca morocco.
+- I have extensive knowledge in HTML, CSS, JavaScript, Nodejs, React, PHP, Laravel, Docker, MongoDB, Jest, and MySQL.
 - I aspire to help create a new web application and project and bring it to life and demonstrate my commitment to development.
 - you can see more info here [My website](https://adilth.netlify.app/)
 - Reach out! rajaadil19952012@gmail.com
@@ -30,7 +30,7 @@
 [<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=for-the-badge&labelColor=black&logo=html5"/>](#)
 [<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=264de4&style=for-the-badge&labelColor=black&logo=css3"/>](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=for-the-badge&style=for-the-badge&labelColor=black&logo=mongodb"/>](#) [<img src="https://img.shields.io/static/v1?label=|&message=PHP&color=AEB2D5&style=for-the-badge&labelColor=black&logo=PHP"/>](#)
-[ <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=F1502F&style=for-the-badge&labelColor=black&logo=git"/>](#)<a href="Downloads\Documents\Adil-tahiri-CV_Software_Engineer (2).docx.pdf" target="_blank">
+[ <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=F1502F&style=for-the-badge&labelColor=black&logo=git"/>](#) [ <img src="https://img.shields.io/static/v1?label=|&message=laravel&color=F05340&style=for-the-badge&labelColor=black&logo=Laravel"/>](#) [ <img src="https://img.shields.io/static/v1?label=|&message=docker&color=0db7ed&style=for-the-badge&labelColor=black&logo=docker"/>](#) [ <img src="https://img.shields.io/static/v1?label=|&message=Next.js&color=000&style=for-the-badge&labelColor=black&logo=Next.js"/>](#) [ <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=cc6699&style=for-the-badge&labelColor=black&logo=SaSS"/>](#) [ <img src="https://img.shields.io/static/v1?label=|&message=MySQL&color=00758f&style=for-the-badge&labelColor=black&logo=mysql"/>](#)<a href="Downloads\Documents\Adil-tahiri-CV_Software_Engineer (2).docx.pdf" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=for-the-badge&logo=react&logo-color=white"/>
 </a>
 
